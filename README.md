@@ -27,6 +27,17 @@ Install required libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
+🛠️ Technologies Used
+
+* **Python** – Data analysis and processing
+* **Pandas** – Data cleaning and transformation
+* **NumPy** – Numerical computations
+* **Matplotlib & Seaborn** – Data visualization
+* **Scikit-learn** – Basic machine learning (optional)
+* **Jupyter Notebook / VS Code** – Development environment
+* **Git & GitHub** – Version control and project hosting
+
+---
 
 ---
 
